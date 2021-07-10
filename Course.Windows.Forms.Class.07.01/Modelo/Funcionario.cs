@@ -13,6 +13,5 @@ namespace Course.Windows.Forms.Class._07._01.Modelo {
         public string TipoContrato { get; set; }
         public DateTime DataCadastro { get; set; }
         public DateTime DateAtualizacao { get; set; }
-
     }
 }
